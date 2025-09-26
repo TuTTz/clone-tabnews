@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Pois é mais uma coisinha para ver se funciona Teste DEPLO</h1>;
+  return <h1>Em construção</h1>;
 }
 
 export default Home;
