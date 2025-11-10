@@ -1,5 +1,8 @@
 {
-  "compilerOption": {
-    "baseUrl": "."
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "infra/*": ["infra/*"] // <-- ADICIONE ESTA LINHA
+    }
   }
 }
